@@ -33,10 +33,8 @@ Utilisez le modèle suivant :
 
 ### Repérer l’identifiant du formulaire
 
-Dans l’adresse URL de votre copie du formulaire, repérez l’identifiant du formulaire et conservez-le. Cet identifiant sera nécessaire lors de la configuration de la solution Power Automate.
+Dans l’adresse URL de votre copie du formulaire, repérez l’identifiant du formulaire et conservez-le. Cet identifiant sera nécessaire lors de la configuration de la solution Power Automate. Il s'agit de la chaine de caractères relativement longue qui suit le &id= de l'url du formulaire dupliqué.
 
-> 🎥 **Vidéo explicative**  
-> [Dupliquer et adapter le formulaire](URL_VIDEO_FORMS)
 
 ## 2. Créer la liste SharePoint
 
