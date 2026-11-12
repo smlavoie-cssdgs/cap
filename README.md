@@ -14,8 +14,8 @@ Avant de commencer, assurez-vous de disposer des éléments suivants dans ce dé
 
 - le fichier CSV servant à créer la liste;
 - le fichier de solution Power Automate;
-- les vidéos explicatives, accessibles en streaming depuis OneDrive;
-- les autorisations nécessaires pour créer un formulaire, une liste SharePoint et importer une solution Power Automate.
+- Un espace SharePoint
+- les autorisations nécessaires pour créer un formulaire, une liste SharePoint (dans le SharePoint) et importer une solution Power Automate.
 
 # Procédure d’implantation
 
