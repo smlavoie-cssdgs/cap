@@ -38,11 +38,13 @@ Dans l’adresse URL de votre copie du formulaire, repérez l’identifiant du f
 
 ## 2. Créer la liste SharePoint
 
-1. Ouvrez **Microsoft Lists**.
-2. Créez une nouvelle liste à partir d’un fichier CSV.
-3. Téléversez le fichier CSV fourni dans ce dépôt.
-4. Au moment de nommer la liste, utilisez l’option **Créer dans** pour l’enregistrer dans un site SharePoint, et non dans **Mes listes**.
-5. Une fois la liste créée, repérez et conservez son identifiant.
+1. Ouvrez le SharePoint du projet
+2. De la roue dentelée du coin supérieur droit, affichez le contenu du site.
+3. Du menu nouveau, choisissez Liste
+4. Importez une nouvelle liste à partir d’un fichier CSV.
+5. Téléversez le fichier CSV fourni dans ce dépôt.
+6. Une fois la liste créée, repérez et conservez son identifiant.
+7. Conservez également l'adresse URL du site SharePoint.
 
 > 🎥 **Vidéo explicative**  
 > [Créer la liste à partir du fichier CSV](https://o365csdgs-my.sharepoint.com/:v:/g/personal/stephane_lavoie_cssdgs_gouv_qc_ca/IQCc9jbiNZWnTI7yyBzmnQX2AdNeaU8X9tmqf1i3-IKPRRc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=GWzeFZ)
@@ -55,7 +57,7 @@ Dans l’adresse URL de votre copie du formulaire, repérez l’identifiant du f
 4. Chargez le fichier de solution fourni dans ce dépôt.
 5. Terminez l’importation en configurant les connexions demandées.
 
-> 🎥 **Vidéo explicative**  
+> 🎥 **Vidéo explicative (èa venir)**  
 > [Importer la solution Power Automate](URL_VIDEO_IMPORT)
 
 ## 4. Configurer les variables
@@ -70,7 +72,7 @@ Après l’importation, ajustez les trois variables de la solution :
 
 Vérifiez également que les connexions Microsoft Forms et SharePoint utilisent des comptes autorisés à accéder aux ressources correspondantes.
 
-> 🎥 **Vidéo explicative**  
+> 🎥 **Vidéo explicative (èa venir)**  
 > [Configurer les variables et les connexions](URL_VIDEO_CONFIGURATION)
 
 ## 5. Activer et tester le flux
@@ -95,22 +97,8 @@ Vérifiez également que les connexions Microsoft Forms et SharePoint utilisent 
 - [ ] Une soumission complète a été testée.
 - [ ] Les données apparaissent correctement dans la liste.
 
-> 🎥 **Vidéo explicative**  
+> 🎥 **Vidéo explicative (à venir)**  
 > [Tester et valider le processus](URL_VIDEO_TEST)
-
-## Vidéos explicatives
-
-Les vidéos sont hébergées dans OneDrive et s’ouvrent en streaming. Les liens doivent être configurés avec une autorisation de partage adaptée au public visé.
-
-| Étape | Vidéo |
-|---|---|
-| Formulaire | [Dupliquer et adapter le formulaire](URL_VIDEO_FORMS) |
-| Microsoft Lists | [Créer la liste à partir du CSV](URL_VIDEO_LIST) |
-| Power Automate | [Importer la solution](URL_VIDEO_IMPORT) |
-| Configuration | [Configurer les variables](URL_VIDEO_CONFIGURATION) |
-| Validation | [Tester le processus](URL_VIDEO_TEST) |
-
-> **Important :** un lien OneDrive réservé aux membres du CSSDGS ne sera pas accessible aux personnes externes. Vérifiez les paramètres de partage avant de diffuser ce dépôt.
 
 ## Dépannage rapide
 
