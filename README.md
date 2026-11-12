@@ -47,7 +47,7 @@ Dans l’adresse URL de votre copie du formulaire, repérez l’identifiant du f
 5. Une fois la liste créée, repérez et conservez son identifiant.
 
 > 🎥 **Vidéo explicative**  
-> [Créer la liste à partir du fichier CSV](URL_VIDEO_LIST)
+> [Créer la liste à partir du fichier CSV](https://o365csdgs-my.sharepoint.com/:v:/g/personal/stephane_lavoie_cssdgs_gouv_qc_ca/IQCc9jbiNZWnTI7yyBzmnQX2AdNeaU8X9tmqf1i3-IKPRRc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=GWzeFZ)
 
 ## 3. Importer la solution Power Automate
 
